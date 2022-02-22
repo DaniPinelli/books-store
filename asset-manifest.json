@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/github.io/books-store/static/css/main.073c9b0a.css",
-    "main.js": "/github.io/books-store/static/js/main.3dd5607b.js",
-    "static/js/787.df845168.chunk.js": "/github.io/books-store/static/js/787.df845168.chunk.js",
-    "static/media/logo.svg": "/github.io/books-store/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/github.io/books-store/static/css/main.e6c13ad2.css",
+    "main.js": "/github.io/books-store/static/js/main.3b461708.js",
     "index.html": "/github.io/books-store/index.html",
-    "main.073c9b0a.css.map": "/github.io/books-store/static/css/main.073c9b0a.css.map",
-    "main.3dd5607b.js.map": "/github.io/books-store/static/js/main.3dd5607b.js.map",
-    "787.df845168.chunk.js.map": "/github.io/books-store/static/js/787.df845168.chunk.js.map"
+    "main.e6c13ad2.css.map": "/github.io/books-store/static/css/main.e6c13ad2.css.map",
+    "main.3b461708.js.map": "/github.io/books-store/static/js/main.3b461708.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3dd5607b.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3b461708.js"
   ]
 }
